@@ -1,1 +1,4 @@
 Este un archivo local creado recientemente...
+
+
+Cambios que se ha relaizado desde el servidor.
